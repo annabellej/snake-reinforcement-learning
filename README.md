@@ -1,5 +1,6 @@
 # Snake: Reinforcement Learning
 ![MIT License Badge](https://img.shields.io/badge/license-MIT-green)
+
 AI based on reinforcement learning to play the classic video game Snake. Uses the TD Q-learning algorithm with a Markov Decision Process based on goal, boundary, and snake body location information. Project for CS 440.
 
 ## Demo:
